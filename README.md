@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Sandeep Reddy Here ==></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mern Stack(currently) developer from India</h3>
 
 - 🌱 I’m currently learning **type script, next js , ds & algo**
 
