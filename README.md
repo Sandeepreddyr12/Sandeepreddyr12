@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Sandeepreddyr12
-- 👀 I’m interested in full stack.. 
-- 🌱 I’m currently learning nosql/mongo db
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 12sandeepreddyr@gmail
+i'm Sandeep Reddy from India, and I'm currently a Mern stack developer. I really enjoy learning languages and frameworks like React and  tailwind. I also enjoy wireframing, ui, vanilla css, and design in general. i'm currently(just started) into ds & algo.
 
-<!---
-Sandeepreddyr12/Sandeepreddyr12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeepreddyr12)](https://github.com/anuraghazra/github-readme-stats)
