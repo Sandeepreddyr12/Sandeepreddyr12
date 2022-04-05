@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **react , css, js, node & mongo db**
 
-- 📫 How to reach me **12sandeepreddyr@gmail.com**
+- 📫 How to reach me **sandeepreddyr97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
