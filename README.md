@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, Sandeep Reddy Here </h1>
 <h3 align="center">A passionate Mern Stack(currently) developer from India</h3>
 
-- 🌱 I’m currently learning **type script, next js , ds & algo**
-
-- 💬 Ask me about **react , css, js, node & mongo db**
 
 - 📫 How to reach me **sandeepreddyr97@gmail.com**
 
